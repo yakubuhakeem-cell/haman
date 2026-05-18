@@ -1,0 +1,1 @@
+﻿# Saako Site\n\nThis repo contains the single-file frontend for Saako Holy Child Academy.\n\n- Upload index.html to GitHub and enable Pages (main / root).\n- Update API_BASE_URL in index.html to your public backend when deployed.\n
